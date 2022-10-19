@@ -72,9 +72,6 @@ ul {
     padding: 0;
 }
 
-.container {
-}
-
 .d-flex {
     display: flex;
     align-items: center;
@@ -276,9 +273,6 @@ a:hover {
 /* Sections */
 /*Mise en forme*/
 
-section {
-}
-
 .section-header {
 text-align: center;
 }
@@ -318,8 +312,6 @@ text-align: center;
     padding: 1rem 0 0 0;
     background: #ffffff;
 
-}
-.hero img {
 }
 
 .hero .title {
